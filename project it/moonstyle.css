@@ -1,0 +1,20 @@
+body{background-image: url(sh5.jpg);background-repeat: no-repeat;background-attachment:fixed;background-size: cover}
+h1{text-align: center;font-family:serif;font-weight:bold;color:red/*#c97a30*/;font-size:70px;/*border:2px solid #d3a747*/}
+.text1{text-align: center;background-color:rgba(black,0.5)}
+table,td,th{padding:10px;border:5px solid #81aff9;background-color:rgba(black,0.5)/*#fc9d6a*/;border-collapse: collapse;text-align: center;}
+td{color:white;font-size:20px;font:bold}
+thead{font-weight: bold;text-align: center;font-size:75px;}
+a{text-decoration-color: #844731;color:red}
+h2{color:#fddcce;font-size: 50px}
+marquee{color:red;font-size:50px;font-style: italic;}
+.me1{background:black;width:1500}
+th{color:black;font-size:20px;background-color:#ccd7ea /*#fddcce*/}
+tbody{background-color:#7896}
+.me6{margin-left:23px}
+p{color:white;}
+.me2{background-color:black;width:280px;margin-left:40;display:block}
+.me7{background-color:black;text-align:center;color:white}
+audio{color:red}
+h3{color: red}
+h4{color: orange}
+input{height: 30;width: 20;color: red;background-color:#ccd7ea}
